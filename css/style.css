@@ -1,0 +1,19 @@
+.links {
+    text-decoration: rgb(25, 130, 250);
+    color: rgb(25, 130, 250);
+}
+
+#title {
+    text-align: center;
+}
+
+html {
+    background-color: #ffe5d7;
+    color: rgb(0, 0, 0);
+}
+
+#encabezamiento {
+    height: 50vh;
+    width: 100%;
+    object-fit: cover;
+}
