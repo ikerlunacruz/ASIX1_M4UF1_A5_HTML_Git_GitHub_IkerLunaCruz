@@ -17,3 +17,8 @@ html {
     width: 100%;
     object-fit: cover;
 }
+
+.star {
+    width: 1.5vh;
+    height: 1.5vh;
+}
